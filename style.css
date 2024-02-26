@@ -1,0 +1,21 @@
+:root{
+    --cor-de-fundo: #ff0000;
+    --verde: #6fff57;
+    --botao-ativado: #1900ff;
+    --botao-inativado: rgba(21, 0, 255, 0.5);
+    --texto-fundo: rgba(58, 55, 94, 0.3);
+}   
+body{
+background-color: #000000;
+color: aliceblue;
+}
+ .botao{
+     background-color: var(--botao-inativado);
+    color: rgb(255, 255, 255); 
+
+ }
+   
+
+h1{
+    font-family: "Roboto Condensed", sans-serif;
+}
